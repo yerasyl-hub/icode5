@@ -1,0 +1,105 @@
+.container{
+    background-color: white;
+    width: 800px;
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: relative;
+    border-radius: 3px;
+}
+body{
+    background-color: rgb(118, 201, 252);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 800px;
+    gap: 50px;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    position: absolute;
+    left: 400px;
+}
+*{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+input{
+    border-radius: 50%;
+    border: round solid 1px;
+}
+
+.container2{
+    background-color: black;
+    color: white;
+    width: 800px;
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: relative;
+    border-radius: 3px;
+}
+
+.container3{
+    background-color: white;
+    width: 800px;
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: relative;
+    border-radius: 50px;
+}
+
+.container4{
+    background-color: black;
+    color: white;
+    width: 800px;
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: relative;
+    border-radius: 50px;
+}
+
+.container5{
+    background-color: white;
+    width: 800px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.container6{
+    background-color: black;
+    color: white;
+    width: 800px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.checkbox{
+    background-color: lightgreen;
+    border-radius: 50%;
+    color: white;
+}
+.dltbtn1{
+    background-color: white;
+    border: none;
+    position: absolute;
+    right: 10px;
+}
+
+.dltbtn2{
+    background-color: black;
+    border: none;
+    position: absolute;
+    right: 10px;
+}
